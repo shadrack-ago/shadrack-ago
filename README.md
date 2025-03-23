@@ -25,9 +25,12 @@ Here are some of the technologies and tools I work with:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+
+![HTML](https://github.com/brayan-otieno#-github-stats)
 ### 🌱 What I'm Currently Learning
 
 I'm always eager to learn and grow. Currently, I'm focusing on:
+
 - Advanced JavaScript (ES6+)
 - React.js
 - Responsive Web Design
