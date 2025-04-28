@@ -46,7 +46,7 @@ Here are some of the projects I've worked on:
 3. **[Project Name 3](https://github.com/yourusername/project3)** - Business portfolio website.
 
 Feel free to explore my repositories to see more of my work!
-
+Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shadrack-ago)](https://git.io/streak-stats)
 
 ### 📫 How to Reach Me
