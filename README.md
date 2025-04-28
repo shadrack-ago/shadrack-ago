@@ -1,7 +1,7 @@
 # Hi there, I'm Shadrack Otieno 👋
 
 ## Junior Software Developer | Front-End Enthusiast
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Software+of+Developer;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Enthusiast;Database+Administrator;Data+Analyst;Learning+new+Tech+technologies)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate junior software developer with a strong focus on front-end development. I love building visually appealing, user-friendly, and responsive web applications. I'm constantly learning and expanding my skill set to become a better developer.
 
