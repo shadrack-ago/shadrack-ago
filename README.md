@@ -35,6 +35,7 @@ I'm always eager to learn and grow. Currently, I'm focusing on:
 - Responsive Web Design
 - Web Performance Optimization
 - Docker and DevOps basics
+- Database (mysql, postgresSQL)
 
 ### 🚀 Projects
 
