@@ -47,6 +47,8 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories to see more of my work!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shadrack-ago)](https://git.io/streak-stats)
+
 ### 📫 How to Reach Me
 
 I'm always open to collaborating on interesting projects or discussing new opportunities. You can reach me via:
