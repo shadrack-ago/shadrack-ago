@@ -13,7 +13,7 @@ Here are some of the technologies and tools I work with:
 - **Back-End Development**: PHP Laravel
 - **Database Development**: Mysql, Ms SQL server, Oracle
 - **Version Control**: Git, GitHub
-- **Containerization**: Docker
+- **Containerization**: Docker, Wix
 - **Content Management Systems**: WordPress
 - **Other Tools**: VS Code, Terminal, Figma (for design)
 
