@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate junior software developer with a 
 Here are some of the technologies and tools I work with:
 
 - **Front-End Development**: HTML, tailwind CSS, JavaScript, React
-- **Back-End Development**: PHP Laravel
+- **Back-End Development**: PHP Laravel react
 - **Database Development**: Mysql, Ms SQL server, Oracle
 - **Version Control**: Git, GitHub
 - **Containerization**: Docker, ContainerD
