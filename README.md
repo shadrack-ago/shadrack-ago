@@ -2,12 +2,13 @@
 ## Junior Software Developer | Front-End Enthusiast
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Enthusiast;Database+Administrator;Data+Analyst;Learning+new+Tech+technologies)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate junior software developer with a strong focus on front-end development. I love building visually appealing, user-friendly, and responsive web applications. I'm constantly learning and expanding my skill set to become a better developer.
+Welcome to my GitHub profile! I'm a passionate junior software developer with a strong focus on AI automation. I love building visually appealing, user-friendly, and responsive web applications. I'm constantly learning and expanding my skill set to become a better developer.
 
 ### 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
-
+- **Automation Development**: n8n, Make.com, Zapier, JavaScript, Airtable, Notion, LLMs(openrouter, Mistral models, Gemini)
+- - **AI Agents Development**: Lowcode, n8n, JS, Python, PROMPT&Contex engineering, Guard rails, Vector Store (Supabase,qdrant,pinecone,mongodb)
 - **Front-End Development**: HTML, tailwind4, CSS, JavaScript, React, vite
 - **Back-End Development**: ExpressJS, NodeJS, Mongodb, PHP, Supabase
 - **Database Development**: Mysql, Ms SQL server, Oracle, Supabase
