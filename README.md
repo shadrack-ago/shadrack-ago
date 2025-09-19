@@ -1,8 +1,8 @@
 # Hi there, I'm Shadrack Otieno 👋
-## Junior Software Developer | Front-End Enthusiast
+## AI Automation Engineer | Front-End Enthusiast
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Enthusiast;Database+Administrator;Data+Analyst;Learning+new+Tech+technologies)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate junior software developer with a strong focus on AI automation. I love building visually appealing, user-friendly, and responsive web applications. I'm constantly learning and expanding my skill set to become a better developer.
+Welcome to my GitHub profile! I'm a passionate software solution developer with a strong focus on AI automation. I love building visually appealing, user-friendly, and responsive web applications. I'm currently lining towards AI automation. I have 1year experience in Automating Business workflows
 
 ### 🛠️ Technologies & Tools
 
