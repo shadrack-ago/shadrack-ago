@@ -1,8 +1,8 @@
 # Hi there, I'm Shadrack Otieno 👋
 ## AI Automation Engineer | Front-End Dev | Founder
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Enthusiast;Database+Administrator;Data+Analyst;Learning+new+Tech+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Enthusiast;Database+Administrator;Data+Analyst;Learning+new+Tech+stack)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate software solution developer with a strong focus on AI automation. I love building visually appealing, user-friendly, and responsive web applications. I'm currently lining towards AI automation. I have 1year experience in Automating Business workflows
+Welcome to my GitHub profile! I'm a passionate software solution developer with a strong focus on AI automation. I love building visually appealing, user-friendly, and responsive web applications. I'm currently lining towards AI automation. I have 1year experience in Automating Business workflows. ![My portfolio website](https://shadrack.customcx.com/)
 
 ### 🛠️ Technologies & Tools
 
