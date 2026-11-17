@@ -66,8 +66,8 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 
 - **Email**: [shadrackmeshack7@gmail.com](mailto:shadrackmeshack7@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/shadrack-otieno-495941240/)
-- **Instagram**: ([insta](https://www.instagram.com/sheddy_ago?igsh=MWhxNWEyN2U2eTNkeg==)
-- **Portfolio**: [My Portfolio Website](https://shadrack-ago.github.io/My-portfolio/))
+- **Instagram**: [insta](https://www.instagram.com/sheddy_ago?igsh=MWhxNWEyN2U2eTNkeg==)
+- **Portfolio**: [My Portfolio Website](https://shadrack-ago.github.io/My-portfolio/)
 
 ### ⚡ Fun Fact
 
