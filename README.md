@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software solution developer with 
 Here are some of the technologies and tools I work with:
 - **Automation Development**: n8n, Make.com, Zapier, JavaScript, Airtable, Notion, LLMs(claude,qwen, Mistral models, Gemini)
 - AI coding platforms (Qwen code, Claude code, Codex, Devin(windsurf), Antigravity)
-- - **AI Agents**: n8n, JS, Python, Vector db (Supabase,qdrant,pinecone,mongodb)
+- **AI Agents**: n8n, JS, Python, Vector db (Supabase,qdrant,pinecone,mongodb)
 - **Front-End Development**: HTML, tailwind4, CSS, JavaScript, React, vite
 - **Back-End Development**: ExpressJS, NodeJS, Mongodb, PHP, Supabase
 - **Database Development**: Mysql, Ms SQL server, Oracle, Supabase
