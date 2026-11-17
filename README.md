@@ -48,6 +48,8 @@ I'm always eager to learn and grow. Currently, I'm focusing on:
 
 Here are some of the projects I've worked on:
 
+**[My Portfolio Website](https://shadrack.customcx.com/projects)** - List of my latest Work.
+
 1. **[Project Name  1](https://github.com/shadrack-ago/Database-Design-Programming-with-SQL-bookStoreDB.git)** - Book store database.
 2. **[Project Name 2](https://sheddyagocommercial.vercel.app)** - ecommerce.
 3. **[Project Name 3](https://github.com/shadrack-ago/ETL-Pipeline-Project.git)** - ETL Pipeline mysql-Duckdb.
